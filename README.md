@@ -14,7 +14,7 @@ Para testar os códigos, falaremos um pouco sobre os mascotes do mundo dos jogos
 ### Mario
 
 
-![Mario](https://www.google.com/url?sa=i&url=https%3A%2F%2Fherois.fandom.com%2Fpt-br%2Fwiki%2FMario_%2528Super_Mario_Bros._O_Filme%2529&psig=AOvVaw2UMwEd2rw9eWNv36ShFMwS&ust=1699454685532000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMD8vZmQsoIDFQAAAAAdAAAAABAE)
+![Mario](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMp09zhtKwzL0LhB84si9h9rswkE3HT2rcjq83b5pc16yqsM6l9ZUrnoFWN8KJQD4D_g&usqp=CAU)
 
 >***Mascote Nintendo***
 
@@ -28,6 +28,7 @@ Para testar os códigos, falaremos um pouco sobre os mascotes do mundo dos jogos
 ### Sonic
 
 
+![Sonic](https://static.wikia.nocookie.net/herois/images/2/20/SonicSF.webp/revision/latest?cb=20230503012505&path-prefix=pt-br)
 
 >***Mascote Sega*** 
 
@@ -41,6 +42,7 @@ Para testar os códigos, falaremos um pouco sobre os mascotes do mundo dos jogos
 ### Crash
 
 
+![Crash](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpDtc1UprpyU2CIo6M5Rnva5SV2K_R0dFtTHQH2DTwbjyax1hKPardFjFHsMCZ5_MwxfA&usqp=CAU)
 
 >***Mascote PlayStation***
 
